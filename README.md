@@ -12,7 +12,7 @@ $ source aliases.sh
 ## Aliases
 
 | Alias | Command |
-|=======|=========|
+|-------|---------|
 | `gs`  | `git status` |
 | `gd`  | `git diff` |
 | `gl`  | `git log` |
