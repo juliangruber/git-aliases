@@ -18,6 +18,7 @@ $ source aliases.sh
 | `gl`  | `git log` |
 | `gpom` | `git pull origin master` |
 | `gpum` | `git pull upstream master` |
+| `gp`   | `git push` |
 | `ga`   | `git add .` |
 | `gm`   | `git commit -m` |
 | `gam`  | `git add . && git commit -m` |
