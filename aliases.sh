@@ -1,0 +1,8 @@
+alias gs="git status"
+alias gd="git diff"
+alias gl="git log"
+alias gpom="git pull origin master"
+alias gpum="git pull upstream master"
+alias ga="git add ."
+alias gm="git commit -m"
+alias gam="git add . && git commit -m"
