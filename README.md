@@ -22,6 +22,7 @@ $ source aliases.sh
 | `ga`   | `git add .` |
 | `gm`   | `git commit -m` |
 | `gam`  | `git add . && git commit -m` |
+| `gb`   | `git branch` |
 
 ## License
 
