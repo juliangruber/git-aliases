@@ -24,6 +24,7 @@ $ source aliases.sh
 | `gam`  | `git add . && git commit -m` |
 | `gb`   | `git branch` |
 | `gco`  | `git checkout` |
+| `gc`  | `git clone` |
 
 ## License
 
