@@ -15,6 +15,7 @@ $ source aliases.sh
 |-------|---------|
 | `gs`  | `git status` |
 | `gd`  | `git diff` |
+| `gdc`  | `git diff --cached` |
 | `gl`  | `git log` |
 | `gpom` | `git pull origin master` |
 | `gpum` | `git pull upstream master` |
