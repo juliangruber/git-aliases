@@ -26,6 +26,7 @@ $ source aliases.sh
 | `gb`   | `git branch` |
 | `gco`  | `git checkout` |
 | `gc`  | `git clone` |
+| `grc`  | `git rebase --continue` |
 
 ## License
 
