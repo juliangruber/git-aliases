@@ -25,6 +25,7 @@ $ source aliases.sh
 | `gam`  | `git add . && git commit -m` |
 | `gb`   | `git branch` |
 | `gco`  | `git checkout` |
+| `gcom`  | `git checkout master` |
 | `gc`  | `git clone` |
 | `grc`  | `git rebase --continue` |
 
