@@ -29,6 +29,8 @@ $ source aliases.sh
 | `gcom`  | `git checkout master` |
 | `gcob`  | `git checkout -b` |
 | `gc`  | `git clone` |
+| `gr`  | `git rebase` |
+| `grm`  | `git rebase master` |
 | `grc`  | `git rebase --continue` |
 
 ## License
