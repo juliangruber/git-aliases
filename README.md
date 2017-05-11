@@ -32,6 +32,7 @@ $ source aliases.sh
 | `gr`  | `git rebase` |
 | `grm`  | `git rebase master` |
 | `grc`  | `git rebase --continue` |
+| `grs`  | `git rebase --skip` |
 
 ## License
 
