@@ -19,6 +19,7 @@ $ source aliases.sh
 | `gl`  | `git log` |
 | `gpom` | `git pull origin master` |
 | `gpum` | `git pull upstream master` |
+| `gf` | `git fetch` |
 | `gp`   | `git push` |
 | `gpuo`   | `git push -u origin` |
 | `ga`   | `git add .` |
