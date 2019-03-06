@@ -18,6 +18,8 @@ $ source aliases.sh
 | `gdc`  | `git diff --cached` |
 | `gl`  | `git log` |
 | `gpom` | `git pull origin master` |
+| `gpos` | `git pull origin staging` |
+| `gpoc` | `git pull origin canary` |
 | `gpum` | `git pull upstream master` |
 | `gf` | `git fetch` |
 | `gp`   | `git push` |
