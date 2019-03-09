@@ -30,6 +30,7 @@ $ source aliases.sh
 | `gb`   | `git branch` |
 | `gco`  | `git checkout` |
 | `gcom`  | `git checkout master` |
+| `gcoc`  | `git checkout canary` |
 | `gcob`  | `git checkout -b` |
 | `gc`  | `git clone` |
 | `gr`  | `git rebase` |
