@@ -20,6 +20,7 @@ $ source aliases.sh
 | `gpom` | `git pull origin master` |
 | `gpos` | `git pull origin staging` |
 | `gpoc` | `git pull origin canary` |
+| `gpod` | `git pull origin dev` |
 | `gpum` | `git pull upstream master` |
 | `gf` | `git fetch` |
 | `gp`   | `git push` |
@@ -31,6 +32,7 @@ $ source aliases.sh
 | `gco`  | `git checkout` |
 | `gcom`  | `git checkout master` |
 | `gcoc`  | `git checkout canary` |
+| `gcod`  | `git checkout dev` |
 | `gcob`  | `git checkout -b` |
 | `gc`  | `git clone` |
 | `gr`  | `git rebase` |
