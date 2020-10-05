@@ -4,7 +4,7 @@
 Commonly used git aliases. Fork to add more!
 
 _This project uses inclusive language. Therefore the `main` branch is used
-instead of `master`._
+with a fallback to `master`._
 
 ## Installation
 
