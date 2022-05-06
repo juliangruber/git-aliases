@@ -43,6 +43,7 @@ $ source aliases.sh
 | `grc`  | `git rebase --continue` |
 | `grs`  | `git rebase --skip` |
 | `gcp` | `git cherry-pick` |
+| `gmm` | `git merge main` |
 
 ## License
 
