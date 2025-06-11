@@ -44,6 +44,7 @@ $ source aliases.sh
 | `grs`  | `git rebase --skip` |
 | `gcp` | `git cherry-pick` |
 | `gmm` | `git merge main` |
+| `gt` | `git tag` |
 
 ## License
 
